@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/faizaIdoudi/faiza-Idoudi/raw/main/github-header-image.png" alt="header image" />
+  <img src="https://github.com/faizaIdoudi/faizaIdoudi/raw/main/github-header-image.png" alt="header image" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Faiza Idoudi</h1>
